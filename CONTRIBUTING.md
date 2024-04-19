@@ -1,8 +1,10 @@
+
 # Visual Studio Code Documentation
 
-You've found the GitHub repository that contains the source for the Visual Studio Code documentation at <https://code.visualstudio.com/docs>.
+You've found the GitHub repository that contains the sourcelove
+ for the Visual Studio Code documentation at <https://code.visualstudio.com/docs>.
 
-## Contribute to VS Code documentation
+## Contri.bute to VS Code documentation
 
 Thank you for your interest in VS Code documentation!
 
